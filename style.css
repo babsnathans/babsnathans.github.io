@@ -41,3 +41,11 @@ p {
   background: #333;
   color: white;
 }
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;   /* makes it round */
+  display: block;       /* helps with centering */
+  margin: 0 auto 20px;  /* centers the photo and adds space below */
+  border: 4px solid white;
+}
